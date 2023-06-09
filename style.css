@@ -40,7 +40,7 @@
 img{
     width: 75%;
 }
-.center{
+.text-center{
     text-align: center;
 }
 .title{
@@ -80,4 +80,7 @@ p{
     border-image: linear-gradient(130deg,orange, rgb(255, 89, 0));
     border-image-slice: 1;
     background-color: #ffffff;
+}
+footer p{
+
 }
